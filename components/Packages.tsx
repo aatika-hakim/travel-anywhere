@@ -17,7 +17,7 @@ const Packages = () => {
       </div>
 
       <Image
-        src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3"
+        src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?fm=jpg"
         className="rounded"
         alt="Top destinations collage"
         width={267}

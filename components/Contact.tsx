@@ -17,7 +17,7 @@ const Contact = () => {
       </div>
 
       <Image
-        src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3"
+        src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?fm=jpg"
         className="rounded"
         alt="Travel planning"
         width={267}

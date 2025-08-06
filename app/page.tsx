@@ -1,6 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import Hero from "@/components/Hero";
+import Destintions from "@/components/Destintions";
+import Packages from "@/components/Packages";
+import Contact from "@/components/Contact";
 
 const HomePage = () => {
   return (
@@ -38,6 +41,9 @@ const HomePage = () => {
           </div>
         </div>
       </section>
+      <Destintions />
+      <Packages />
+      <Contact />
     </>
   );
 };
