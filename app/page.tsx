@@ -4,6 +4,8 @@ import Hero from "@/components/Hero";
 import Destintions from "@/components/Destintions";
 import Packages from "@/components/Packages";
 import Contact from "@/components/Contact";
+import Camp from "@/components/Camp";
+import Features from "@/components/Features";
 
 const HomePage = () => {
   return (
@@ -41,9 +43,9 @@ const HomePage = () => {
           </div>
         </div>
       </section>
-      <Destintions />
-      <Packages />
-      <Contact />
+      <Camp/>
+      <Features />
+      
     </>
   );
 };
