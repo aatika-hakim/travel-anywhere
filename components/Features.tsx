@@ -8,7 +8,8 @@ const Features = () => {
       <div className="max-container padding-container relative w-full flex justify-end">
         <div className="flex flex-1 lg:min-h-[900px]">
           <Image
-            src="/phone.png"
+            // src="/phone.png"
+            src="https://www.prepressure.com/images/design_resolution_original.jpg"
             alt="phone"
             width={440}
             height={1000}
@@ -19,7 +20,8 @@ const Features = () => {
         <div className="z-20 flex w-full flex-col lg:w-[60%]">
           <div className='relative'>
             <Image
-              src="/camp.svg"
+              // src="/camp.svg"
+              src="https://www.prepressure.com/images/design_resolution_original.jpg"
               alt="camp"
               width={50}
               height={50}
